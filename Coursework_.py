@@ -4,3 +4,5 @@ print(train_idxs)
 camera = train_idxs['camId']
 print(camera.ravel())
 print(camera.shape)    
+
+#stuff
